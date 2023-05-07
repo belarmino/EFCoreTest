@@ -1,4 +1,4 @@
-## Create a console project
+## Run a project
 ```
 dotnet run
 ```
