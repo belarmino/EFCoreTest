@@ -1,3 +1,7 @@
+# Entity Framework Core
+
+How to save and retrive data from database use Entity Framework Core
+
 ## Run a project
 ```
 dotnet run
